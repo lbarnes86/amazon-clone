@@ -11,7 +11,6 @@
 ## Table of Contents
 
 - [Description](#description)
-- [Screenshot](#screenshot)
 - [Contributors](#contributors)
 
 
@@ -19,10 +18,6 @@
 
 >This is a clone of Amazon's website in the early 90s.
 
-
-## Screenshot
-
-<img src="">
 
 ## Contributors
 
